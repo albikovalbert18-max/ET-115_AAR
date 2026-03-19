@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //<> эта штука не видит почему-то данные кавычки,из-за этого показывает,что iostream нет
 
 using namespace std;
 
